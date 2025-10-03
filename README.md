@@ -41,7 +41,8 @@ Adicione os arquivos modificados e faça commit:
 
 "git commit -m "Atualizando produtos"
 
--Envie para o repositório remoto:
+- Envie para o repositório remoto:
 
 "git push"
+
 
