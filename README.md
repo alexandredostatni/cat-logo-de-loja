@@ -38,8 +38,10 @@ Abra no navegador:
 Adicione os arquivos modificados e faça commit:
 
 "git add public/data/products.json public/images/nova-imagem.jpg"
-git commit -m "Atualizando produtos"
+
+"git commit -m "Atualizando produtos"
 
 -Envie para o repositório remoto:
 
 "git push"
+
