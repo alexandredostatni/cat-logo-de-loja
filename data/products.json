@@ -1,16 +1,25 @@
 [
   {
     "id": "p1",
-    "name": "Camiseta Básica",
-    "description": "Algodão 100%, disponível P/M/G",
-    "price": 49.90,
-    "image": "images/camiseta.jpg"
+    "name": "Bone Masculino",
+    "description": "Bone Masculino Lacoste",
+    "price": 40.00,
+    "image": "images/bone.jpg"
   },
   {
     "id": "p2",
-    "name": "Calça Jeans",
-    "description": "Jeans escuro, 100% algodão",
-    "price": 119.90,
-    "image": "images/calca.jpg"
+    "name": "Vestido Feminino",
+    "description": "Vestido de Veludo",
+    "price": 90.00,
+    "image": "images/vestido.jpg"
+  },
+  {
+    "id": "p1",
+    "name": "Camiseta Masculina",
+    "description": "Malha Peruana",
+    "price": 50.00,
+    "image": "images/camiseta.jpg"
   }
 ]
+
+
