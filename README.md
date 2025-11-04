@@ -1,3 +1,10 @@
+Projeto pessoal de catálogo online de roupas, desenvolvido como ambiente de demonstração para práticas DevOps. 
+
+Utilizei GitHub Actions para deploy, HTML5 para estrutura da página, JSON para armazenar os produtos, Git para versionar o código e acompanhar mudanças, GItHub Pages para hospedagem estática, VSCode para edição de código e visualização e terminal/Ubuntu WSL para criar pastas, inicializar o repositório e executar comandos Git.
+
+https://alexandredostatni.github.io/cat-logo-de-loja/
+
+
 > Atualizando os produtos <
 
 Para adicionar ou modificar produtos do catálogo:
@@ -44,5 +51,6 @@ Adicione os arquivos modificados e faça commit:
 - Envie para o repositório remoto:
 
 "git push"
+
 
 
